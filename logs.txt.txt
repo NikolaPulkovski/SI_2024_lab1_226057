@@ -1,0 +1,145 @@
+$ git log
+commit 071a704719654b5122b85d68f88bc3d34c71d346 (HEAD -> master, origin/master)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:39:03 2024 +0200
+
+    Merge branch
+
+commit ead24b6dcda0fe5a0e9976752927ca5abdacb071
+Merge: a8fe841 d546565
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:36:52 2024 +0200
+
+    Merge branch 'bug2'
+
+commit d54656579bde9df1f2282c4acb3a3d4ed59c2f84 (origin/bug2, bug2)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:32:54 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a8fe84111d4d1448e39def8be175f81007656568 (origin/bug1, bug1)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:31:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+ ESCOD
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:39:03 2024 +0200
+
+    Merge branch
+
+commit ead24b6dcda0fe5a0e9976752927ca5abdacb071
+Merge: a8fe841 d546565
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:36:52 2024 +0200
+
+    Merge branch 'bug2'
+
+commit d54656579bde9df1f2282c4acb3a3d4ed59c2f84 (origin/bug2, bug2)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:32:54 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a8fe84111d4d1448e39def8be175f81007656568 (origin/bug1, bug1)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:31:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit f707b77e7e3ed094ab6a7b4b4c79fc0b80fbe931
+:
+
+    Merge branch
+
+commit ead24b6dcda0fe5a0e9976752927ca5abdacb071
+Merge: a8fe841 d546565
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:36:52 2024 +0200
+
+    Merge branch 'bug2'
+
+commit d54656579bde9df1f2282c4acb3a3d4ed59c2f84 (origin/bug2, bug2)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:32:54 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a8fe84111d4d1448e39def8be175f81007656568 (origin/bug1, bug1)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:31:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit f707b77e7e3ed094ab6a7b4b4c79fc0b80fbe931
+ ESCOD
+
+    Merge branch
+
+commit ead24b6dcda0fe5a0e9976752927ca5abdacb071
+Merge: a8fe841 d546565
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:36:52 2024 +0200
+
+    Merge branch 'bug2'
+
+commit d54656579bde9df1f2282c4acb3a3d4ed59c2f84 (origin/bug2, bug2)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:32:54 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a8fe84111d4d1448e39def8be175f81007656568 (origin/bug1, bug1)
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:31:07 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit f707b77e7e3ed094ab6a7b4b4c79fc0b80fbe931
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:29:47 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit a0f6ea4667ff2c0577383e6a09701c4cb50c8a4b
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:28:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit a1eb9c861349caa6da69ba8a2d9db23cc981a728
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:20:20 2024 +0200
+
+    Add starter code.
+
+commit 5797e66227c6b00ab82fcd7976e8250040e0c7da
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:17:45 2024 +0200
+
+    Initial commit
+(END)
+commit f707b77e7e3ed094ab6a7b4b4c79fc0b80fbe931
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:29:47 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit a0f6ea4667ff2c0577383e6a09701c4cb50c8a4b
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:28:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit a1eb9c861349caa6da69ba8a2d9db23cc981a728
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:20:20 2024 +0200
+
+    Add starter code.
+
+commit 5797e66227c6b00ab82fcd7976e8250040e0c7da
+Author: Nikola <nikola.pulkovski@students.finki.ukim.mk>
+Date:   Sat Apr 13 13:17:45 2024 +0200
+
+    Initial commit
